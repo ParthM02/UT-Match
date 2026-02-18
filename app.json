@@ -1,4 +1,15 @@
 {
   "name": "utmatch",
-  "displayName": "utmatch"
+  "displayName": "utmatch",
+  "expo": {
+    "name": "utmatch",
+    "slug": "utmatch",
+    "scheme": "utmatch",
+    "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "d9e976d7-071c-4d24-b941-534a91e3c9c7"
+      }
+    }
+  }
 }

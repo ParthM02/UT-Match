@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx install-expo-modules@latest:*)",
+      "WebSearch",
+      "WebFetch(domain:expo.dev)",
+      "Bash(npx expo install:*)",
+      "Bash(npx expo start:*)"
+    ]
+  }
+}
