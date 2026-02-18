@@ -6,10 +6,14 @@
     "slug": "utmatch",
     "scheme": "utmatch",
     "newArchEnabled": true,
+    "userInterfaceStyle": "automatic",
     "extra": {
       "eas": {
         "projectId": "d9e976d7-071c-4d24-b941-534a91e3c9c7"
       }
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
